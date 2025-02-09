@@ -46,8 +46,8 @@ A API é dividida em quatro microsserviços principais:
 ## 📚 Documentação da API
 
 A documentação da API está disponível via **Swagger/OpenAPI**. Após iniciar o projeto, acesse:
-- **Swagger UI**: `http://localhost:8080/swagger-ui.html`
-- **OpenAPI JSON**: `http://localhost:8080/v3/api-docs`
+- **Swagger UI**: 
+- **OpenAPI JSON**: 
 
 ---
 
